@@ -1,0 +1,203 @@
+div:nth-child(1)::after {
+  content: "1";
+  background: hsl(10, 75%, 55%);
+}
+
+div:nth-child(2)::after {
+  content: "2";
+  background: hsl(20, 75%, 55%);
+}
+
+div:nth-child(3)::after {
+  content: "3";
+  background: hsl(30, 75%, 55%);
+}
+
+div:nth-child(4)::after {
+  content: "4";
+  background: hsl(40, 75%, 55%);
+}
+
+div:nth-child(5)::after {
+  content: "5";
+  background: hsl(50, 75%, 55%);
+}
+
+div:nth-child(6)::after {
+  content: "6";
+  background: hsl(60, 75%, 55%);
+}
+
+div:nth-child(7)::after {
+  content: "7";
+  background: hsl(70, 75%, 55%);
+}
+
+div:nth-child(8)::after {
+  content: "8";
+  background: hsl(80, 75%, 55%);
+}
+
+div:nth-child(9)::after {
+  content: "9";
+  background: hsl(90, 75%, 55%);
+}
+
+div:nth-child(10)::after {
+  content: "10";
+  background: hsl(100, 75%, 55%);
+}
+
+div:nth-child(11)::after {
+  content: "11";
+  background: hsl(110, 75%, 55%);
+}
+
+div:nth-child(12)::after {
+  content: "12";
+  background: hsl(120, 75%, 55%);
+}
+
+div:nth-child(13)::after {
+  content: "13";
+  background: hsl(130, 75%, 55%);
+}
+
+div:nth-child(14)::after {
+  content: "14";
+  background: hsl(140, 75%, 55%);
+}
+
+div:nth-child(15)::after {
+  content: "15";
+  background: hsl(150, 75%, 55%);
+}
+
+div:nth-child(16)::after {
+  content: "16";
+  background: hsl(160, 75%, 55%);
+}
+
+div:nth-child(17)::after {
+  content: "17";
+  background: hsl(170, 75%, 55%);
+}
+
+div:nth-child(18)::after {
+  content: "18";
+  background: hsl(180, 75%, 55%);
+}
+
+div:nth-child(19)::after {
+  content: "19";
+  background: hsl(190, 75%, 55%);
+}
+
+div:nth-child(20)::after {
+  content: "20";
+  background: hsl(200, 75%, 55%);
+}
+
+div:nth-child(21)::after {
+  content: "21";
+  background: hsl(210, 75%, 55%);
+}
+
+div:nth-child(22)::after {
+  content: "22";
+  background: hsl(220, 75%, 55%);
+}
+
+div:nth-child(23)::after {
+  content: "23";
+  background: hsl(230, 75%, 55%);
+}
+
+div:nth-child(24)::after {
+  content: "24";
+  background: hsl(240, 75%, 55%);
+}
+
+div:nth-child(25)::after {
+  content: "25";
+  background: hsl(250, 75%, 55%);
+}
+
+div:nth-child(26)::after {
+  content: "26";
+  background: hsl(260, 75%, 55%);
+}
+
+div:nth-child(27)::after {
+  content: "27";
+  background: hsl(270, 75%, 55%);
+}
+
+div:nth-child(28)::after {
+  content: "28";
+  background: hsl(280, 75%, 55%);
+}
+
+div:nth-child(29)::after {
+  content: "29";
+  background: hsl(290, 75%, 55%);
+}
+
+div:nth-child(30)::after {
+  content: "30";
+  background: hsl(300, 75%, 55%);
+}
+
+div:nth-child(31)::after {
+  content: "31";
+  background: hsl(310, 75%, 55%);
+}
+
+div:nth-child(32)::after {
+  content: "32";
+  background: hsl(320, 75%, 55%);
+}
+
+div:nth-child(33)::after {
+  content: "33";
+  background: hsl(330, 75%, 55%);
+}
+
+div:nth-child(34)::after {
+  content: "34";
+  background: hsl(340, 75%, 55%);
+}
+
+div:nth-child(35)::after {
+  content: "35";
+  background: hsl(350, 75%, 55%);
+}
+
+div:nth-child(36)::after {
+  content: "36";
+  background: hsl(0, 75%, 55%);
+}
+
+body {
+  align-items: stretch;
+  align-content: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  height: 100vh;
+}
+
+div {
+  display: flex;
+  flex: 1 0 auto;
+  white-space: nowrap;
+}
+div::after {
+  align-items: center;
+  display: flex;
+  flex: 1 0 auto;
+  justify-content: center;
+  padding: 2rem;
+  margin: 2px;
+}
+
+/*# sourceMappingURL=style.css.map */
